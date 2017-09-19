@@ -1,5 +1,9 @@
 [My Computer]
+<<<<<<< HEAD
 My Computer = "192.168.1.159"
+=======
+My Computer = "127.0.0.1"
+>>>>>>> comments
 
 [Target]
 Target = "roboRIO-1712-FRC.local"
